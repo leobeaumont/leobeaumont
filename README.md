@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leobeaumont
 - 👀 I’m interested in A.I. and coding in general
-- 🌱 I’m currently learning Maths / Physics / Chemistery / Coding
+- 🌱 I’m currently learning Maths / Physics / Chemistry / Computer science
 - 📫 How to reach me: leowhite3005@gmail.com
 
 <!---
